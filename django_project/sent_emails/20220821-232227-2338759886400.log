@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?q?Restablecimiento_de_la_contrase=C3=B1a_en_127=2E0=2E0=2E1=3A8000_?=
+From: webmaster@localhost
+To: admin@gmail.com
+Date: Mon, 22 Aug 2022 04:22:27 -0000
+Message-ID: <166114214787.12360.1376967905557119421@DanteM>
+
+
+Usted está recibiendo este correo electrónico porque ha solicitado un restablecimiento de contraseña para la cuenta de usuario en 127.0.0.1:8000.
+
+Por favor visite la página que se muestra a continuación y elija una nueva contraseña:
+
+http://127.0.0.1:8000/accounts/reset/MQ/baj4xf-436aeab07c68d7d7535f9c91c3773e10/
+
+Su nombre de usuario, en caso de que lo haya olvidado: admin
+
+¡Gracias por usar nuestro sitio!
+
+El equipo de 127.0.0.1:8000
+
+
+
+-------------------------------------------------------------------------------
